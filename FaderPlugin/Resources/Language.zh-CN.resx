@@ -311,7 +311,7 @@
     <value>剧情指南</value>
   </data>
   <data name="ElementIslekeepIndex" xml:space="preserve">
-    <value>岛屿天堂索引</value>
+    <value>无人岛开拓管理面板</value>
   </data>
   <data name="ElementDutyList" xml:space="preserve">
     <value>副本列表</value>
@@ -374,10 +374,10 @@
     <value>WXHB始终可见，除非使用"将WXHB与XHB分开定位"选项</value>
   </data>
   <data name="ElementTooltipActionHotbar" xml:space="preserve">
-    <value>额外动作（例如在岛屿、标准或某些战斗中）</value>
+    <value>额外技能（例如在无人岛、多变或异闻迷宫中）</value>
   </data>
   <data name="ElementTooltipPetHotbar" xml:space="preserve">
-    <value>宠物和坐骑动作</value>
+    <value>宠物和坐骑技能</value>
   </data>
   <data name="ElementTooltipJob" xml:space="preserve">
     <value>职业特定UI</value>
@@ -482,16 +482,16 @@
     <value>采集点目标</value>
   </data>
   <data name="ElementCosmicExotablet" xml:space="preserve">
-    <value>宇宙异形石板</value>
+    <value>探索触控板</value>
   </data>
   <data name="ElementAllianceList1" xml:space="preserve">
-    <value>联盟列表 1</value>
+    <value>团队列表 1</value>
   </data>
   <data name="ElementAllianceList2" xml:space="preserve">
-    <value>联盟列表 2</value>
+    <value>团队列表 2</value>
   </data>
   <data name="ElementOccultCrescentHud" xml:space="preserve">
-    <value>神秘新月HUD</value>
+    <value>新月岛HUD</value>
   </data>
   <data name="ElementBozjaHud" xml:space="preserve">
     <value>博兹雅HUD</value>
@@ -500,7 +500,7 @@
     <value>优雷卡元素轮盘</value>
   </data>
   <data name="ElementEurekaLogosHud" xml:space="preserve">
-    <value>优雷卡逻各斯动作</value>
+    <value>优雷卡文理技能</value>
   </data>
   <data name="ElementExperienceBar" xml:space="preserve">
     <value>经验条</value>
