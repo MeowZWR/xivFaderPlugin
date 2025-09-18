@@ -138,7 +138,14 @@ public class Plugin : IDalamudPlugin
 
     private void LanguageChanged(string langCode)
     {
-        Language.Culture = new CultureInfo(langCode);
+        if (Data.Language.ToString() == "ChineseSimplified")
+        {
+            Language.Culture = new CultureInfo("zh-CN");
+        }
+        else
+        {
+            Language.Culture = new CultureInfo(langCode);
+        }
     }
 
     private void LoadConfig(out Configuration configuration)
